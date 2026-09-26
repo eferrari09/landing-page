@@ -124,6 +124,39 @@ button {
     text-align: end;
 }
 
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 64px 72px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    padding: 40px 64px;
+    border-radius: 10px;
+    width: 700px;
+}
+
+.modal {
+    color: white;
+}
+
+.button2 {
+    border: 2px solid white;
+}
+
+.t1 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.t2 {
+    color: #E5E7EB;
+}
+
 .footer {
     background-color: #1F2937;
     color: white;
